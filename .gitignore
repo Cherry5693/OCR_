@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+ocr-service/venv/
+ocr-service/.env
+
+# Logs
+*.log
+
+.pytest_cache/
+
+build/
+dist/
